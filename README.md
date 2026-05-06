@@ -18,8 +18,8 @@ Développeur web autodidacte basé à Cotonou, Bénin. Je me consacre à la cré
 ### Apprentissage en cours
 Je poursuis actuellement la certification **Responsive Web Design** de freeCodeCamp.
 * **Maîtrisé :** HTML sémantique, bases du CSS.
-* **En cours :** CSS avancé (Pseudo-classes, Couleurs, Box Model).
-* **Prochaine étape :** Flexbox et CSS Grid.
+* **En cours :** CSS avancé (Pseudo-classes, Couleurs, Box Model, Flexbox et CSS Grid).
+* **Prochaine étape :** JavaScript Certification.
 
 ---
 
