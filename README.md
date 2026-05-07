@@ -38,7 +38,7 @@ Je poursuis actuellement la certification **Responsive Web Design** de freeCodeC
 * [**Greeting Card**](https://github.com/DocariDR/greeting-card-freeCodeCamp) - Carte de vœux interactive réalisée avec CSS.
 * [**Event Flyer Page**](https://github.com/DocariDR/Event-Flyer-Page-freeCodeCamp) - Page de destination optimisée pour un événement.
 * [**Blog Post Card**](https://github.com/DocariDR/blog-post-card-freeCodeCamp) - Travail approfondi sur le modèle de boîte et la typographie.
-* [**Workshop Cafe Menu**](https://github.com/DocariDR/Workshop-Cafe-Menu-freeCodeCamp) - Structure sémantique et mise en forme d'un menu de restaurant.
+* [**Cafe Menu Workshop**](https://github.com/DocariDR/Workshop-Cafe-Menu-freeCodeCamp) - Structure sémantique et mise en forme d'un menu de restaurant.
 * [**Business Card**](https://github.com/DocariDR/business-card-freeCodeCamp) - Carte de visite numérique professionnelle et minimaliste.
 
 ---
