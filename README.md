@@ -149,6 +149,8 @@ Je souhaite rejoindre un environnement dans lequel je pourrai continuer à progr
 - **Email :** [ricardovonoupro@gmail.com](mailto:ricardovonoupro@gmail.com)
 - **LinkedIn :** [linkedin.com/in/ricardo-dovonou](https://www.linkedin.com/in/ricardo-dovonou)
 - **GitHub :** [github.com/DocariDR](https://github.com/DocariDR)
+- **X :** [https://x.com/DocariDR](https://x.com/DocariDR)
+- **BlueSky :** [https://bsky.app/profile/docaridr.bsky.social](https://bsky.app/profile/docaridr.bsky.social)
 
 ---
 
