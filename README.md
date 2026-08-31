@@ -14,13 +14,13 @@ Mon parcours combine **développement web** et **gestion de projets**, avec une 
 
 7 certificats obtenus autour des fondamentaux du développement et des outils associés :
 
-- Programming Foundations: Fundamentals
-- HTML Essential Training
-- CSS Essential Training
-- JavaScript Essential Training
-- Responsive Design
-- Learning GitHub
-- SEO Foundations
+- Les fondements de la programmation
+- L'essentiel du HTML
+- L'essentiel des CSS
+- L'essentiel de JavaScript
+- L'essentiel de jQuery
+- L'essentiel de GitHub
+- L'essentiel de Git
 
 ### freeCodeCamp
 
