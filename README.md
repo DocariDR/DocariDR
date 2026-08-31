@@ -58,8 +58,6 @@ Gestion de Projets :
 - Gestion des ressources
 - Budget
 - Gestion des risques
-- KPI et objectifs SMART
-- SWOT / PESTEL
 - Microsoft Project
 
 ---
